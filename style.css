@@ -1274,6 +1274,12 @@ ul li {
   .container1 {
     display: flex;
   }
+
+  .container2 {
+    display: flex;
+    margin-left: 80px;
+  }
+  
   
   .left-section {
     flex: 1; /* Takes up half of the container */
